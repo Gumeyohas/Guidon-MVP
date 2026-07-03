@@ -1,0 +1,16 @@
+O arquivo de vídeo não pôde ser incluído diretamente neste repositório
+pois excede o limite de 100MB permitido pelo GitHub (o arquivo possui 210MB).
+
+O vídeo de apresentação está disponível no Google Drive através do link abaixo:
+
+Link: https://drive.google.com/file/d/14VMEBayq5wUxWg_OpNEoiWuBLBZTINHK/view?usp=sharing
+
+
+O vídeo tem duração de aproximadamente 6 minutos e apresenta:
+- A Lean Inception realizada no Miro, incluindo o MVP Canvas
+- O backlog do produto construído no Jira
+- O backlog da Sprint 1 com histórias detalhadas
+- Os wireframes de baixa fidelidade desenvolvidos no Figma
+
+Aluno: Gustavo Freire Meyohas
+Disciplina: Gestão Ágil de Projetos e Produtos
