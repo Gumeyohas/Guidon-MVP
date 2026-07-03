@@ -55,18 +55,35 @@ Detalhes completos, com critérios de aceitação e estimativas, em `sprint-back
  
 ## 🎨 Protótipos de Interface (Figma)
  
-Wireframes de baixa fidelidade desenvolvidos para as três histórias da Sprint 1:
- 
-- **Tela de Cadastro de Guia** — formulário com nome, e-mail, senha, confirmação de senha e número do Cadastur
-- **Tela de Login** — autenticação com e-mail e senha, recuperação de senha e link para cadastro
-- **Tela de Cadastro de Passeio** — formulário com nome, tipo, local, data/horário, ponto de encontro e número de vagas
+Wireframes de baixa fidelidade desenvolvidos para todas as histórias do MVP:
+
+**Sprint 1**
+- **Tela de Cadastro de Guia** — formulário com campos de nome completo, e-mail, 
+senha, confirmação de senha e número do Cadastur, além de botão de confirmar 
+cadastro e link para tela de login
+- **Tela de Login** — autenticação com e-mail e senha, link para recuperação de 
+senha e link para tela de cadastro
+- **Tela de Cadastro de Passeio** — formulário com campos de nome do passeio, 
+tipo, local, data e horário, ponto de encontro e número de vagas
+
+**Demais histórias do MVP**
+- **Tela de Passeios Disponíveis** — lista de passeios com barra de busca, cards 
+contendo foto, nome do local, localização, data e horário e nome do guia 
+responsável; inclui estado de lista vazia
+- **Tela de Meus Passeios** — lista dos passeios do guia com botão para 
+disponibilizar para substituição e modal de confirmação com opções de confirmar 
+e cancelar
+- **Tela de Detalhe do Passeio** — exibe informações completas do passeio 
+(nome, local, data, ponto de encontro, vagas e guia original), botão para 
+solicitar substituição e modal de confirmação de solicitação enviada
+
 As imagens das telas estão disponíveis na pasta `wireframes/`.
  
 ---
  
 ## 🎥 Vídeo de Apresentação
  
-[Inserir URL do vídeo aqui]
+https://drive.google.com/file/d/14VMEBayq5wUxWg_OpNEoiWuBLBZTINHK/view?usp=sharing
  
 ---
  
